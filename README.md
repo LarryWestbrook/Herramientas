@@ -8,7 +8,7 @@
 
 ## 4.-Recuperación de contraseñas.
 
-- [Password Gorilla]
+- [Password Gorilla](Password/password.md)
 
 ## 5.- LIBRE
 
