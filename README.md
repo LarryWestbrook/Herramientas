@@ -12,3 +12,4 @@
 
 ## 5.- LIBRE
 
+- [GIMP](Gimp/gimp.md)
